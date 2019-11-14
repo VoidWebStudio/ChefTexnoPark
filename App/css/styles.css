@@ -1245,7 +1245,7 @@
   display: -webkit-flex;
   display: flex;
   background-image: url("../img/bg-micro.png");
-  background-size: cover;
+  background-size: 100% 100%;
   background-position: center;
   background-repeat: no-repeat;
   width: 100%;
@@ -1266,8 +1266,7 @@
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
-    flex-direction: column;
-    padding-top: 75px; }
+    flex-direction: column; }
     .container-microwave-NeoChef .main-microwave-NeoChef .title-smart-NeoChef {
       display: -webkit-box;
       display: -webkit-flex;

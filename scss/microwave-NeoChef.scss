@@ -1,7 +1,7 @@
 .container-microwave-NeoChef{
   display: flex;
   background-image: url("../img/bg-micro.png");
-  background-size: cover;
+  background-size: 100% 100%;
   background-position: center;
   background-repeat: no-repeat;
   width: 100%;
@@ -14,7 +14,6 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    padding-top: 75px;
     .title-smart-NeoChef{
       display: flex;
       justify-content: center;
