@@ -1,0 +1,204 @@
+.container-footer-NeoChef {
+  display: flex;
+  background-image: url("../img/bg-footer.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: auto;
+  padding: 80px 0 10px 0;
+  width: 100%;
+
+  .main-footere-NeoChef{
+    max-width: 1485px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+  }
+  .table-footer1-NeoChef {
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 20px;
+   h1{
+     display: flex;
+     justify-content: center;
+     text-align: center;
+     font-size: 40px;
+    line-height: 40px;
+     font-weight: 400;
+      color: #c9c9c9;
+      font-family: "LG Smart", sans-serif;
+      padding-bottom: 20px;
+  }
+    p{
+      display: flex;
+      justify-content: center;
+      text-align: center;
+      color: #6b6b6b;
+      font-family: "LG Smart Light", sans-serif;
+      padding-bottom: 107px;
+      font-weight: 300;
+      font-size: 24px;
+      line-height: 30px;
+    }
+    .footer-lg{
+      display: flex;
+      justify-content: center;
+      text-align: center;
+    }
+    .footer-logo{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding-top: 63px;
+      padding-bottom: 20px;
+    }
+    .footer-img{
+      img{
+        max-width: 357px;
+        height: 220px;
+      }
+    }
+    .footer-last{
+      display: flex;
+      padding-top: 15px;
+      padding-bottom: 80px;
+      p{
+        padding-top: 0;
+        padding-bottom: 0;
+        width: 288px;
+        height: 28px;
+        color: #6b6b6b;
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 16px;
+        font-family: "LG Smart Light", sans-serif;
+
+      }
+    }
+  }
+  .table-footer2-NeoChef {
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    h1{
+      display: flex;
+      justify-content: center;
+      text-align: center;
+      font-size: 40px;
+      line-height: 40px;
+      color: #c9c9c9;
+      font-family: "LG Smart", sans-serif;
+    }
+    p{
+      display: flex;
+      justify-content: center;
+      text-align: center;
+      color: #6b6b6b;
+      font-family: "LG Smart Light", sans-serif;
+      font-size: 24px;
+      line-height: 30px;
+      font-weight: 300;
+      padding: 15px 0 0 0;
+    }
+    .footer-logo2{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding-top:35%;
+      padding-bottom: 20px;
+    }
+    .footer-logo2 img{
+
+    }
+    .footer-img{
+      display: flex;
+      justify-content: center;
+      text-align: center;
+
+    }
+    .footer-last{
+      display: flex;
+      padding-top: 15px;
+      padding-bottom: 80px;
+      p{
+        padding-top: 0;
+        padding-bottom: 0;
+        width: 288px;
+        height: 28px;
+        color: #6b6b6b;
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 16px;
+        font-family: "LG Smart Light", sans-serif;
+
+      }
+    }
+  }
+  .table-footer3-NeoChef {
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    .footer-lg{
+      padding-top: 40px;
+    }
+    .footer-logo{
+      padding-bottom: 20px;
+      padding-top: 20%;
+    }
+    .footer-img{
+      img{
+        max-width: 357px;
+        height: 220px;
+      }
+    }
+    .footer-last{
+      display: flex;
+      padding-top: 15px;
+      padding-bottom: 80px;
+      p{
+        padding-top: 0;
+        width: 288px;
+        height: 28px;
+        color: #6b6b6b;
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 16px;
+        font-family: "LG Smart Light", sans-serif;
+
+      }
+    }
+    h1{
+      display: flex;
+      justify-content: center;
+      text-align: center;
+      font-size: 40px;
+      line-height: 40px;
+      color: #c9c9c9;
+      font-family: "LG Smart", sans-serif;
+      padding-bottom: 25px;
+
+    }
+    p{
+      display: flex;
+      justify-content: center;
+      text-align: center;
+      color: #6b6b6b;
+      font-family: "LG Smart Light", sans-serif;
+      font-weight: 300;
+      font-size: 24px;
+      line-height: 30px;
+    }
+    img{
+      display: flex;
+      justify-content: center;
+      text-align: center;
+    }
+  }
+}

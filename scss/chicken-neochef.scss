@@ -1,0 +1,234 @@
+.container-chicken-NeoChef{
+  height: auto;
+  background-image: url("../img/chicken.png");
+  background-size: cover;
+  padding: 80px 120px;
+  width: 100%;
+
+  .main-chicken-NeoChef{
+    display: flex;
+    flex-direction: column;
+    .title-chicken-NeoChef{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      h1{
+        font-size: 40px;
+        line-height: 40px;
+        color: #c9c9c9;
+        font-family: "LG Smart",sans-serif;
+        text-align: center;
+        padding-bottom: 26px;
+        font-weight: 400;
+      }
+      p{
+          font-size: 24px;
+          font-family: "LG Smart Light",sans-serif;
+          color: rgba(201, 201, 201,.8);
+          text-align: center;
+          font-weight: 300;
+          line-height: 30px;
+      }
+    }
+    .calc-chicken-NeoChef{
+        display: flex;
+        flex-direction: column;
+        padding-top: 120px;
+        padding-left: 50px;
+        width: 70%;
+        margin: 0 auto;
+      p{
+          font-size: 20px;
+          font-family: "LG Smart",sans-serif;
+          color: rgb(204, 204, 204);
+          line-height: 1.2;
+          text-align: center;
+
+      }
+      .pan-microwave-NeoChef{
+        display: flex;
+        justify-content:flex-start;
+        align-items: center;
+        .pan-NeoChef{
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          width: 25%;
+          padding-bottom: 20px;
+          p{
+            padding-top: 20px;
+          }
+        }
+        .microwave-NeoChef{
+          display: flex;
+          justify-content: center;
+          flex-direction: column;
+          width: 25%;
+          p{
+            padding-top: 15px;
+          }
+        }
+      }
+      .summ-NeoChef{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .plus-NeoChef{
+          display: flex;
+          justify-content: flex-start;
+          align-items: center;
+          width:32%;
+        }
+        .eq-NeoChef{
+          display: flex;
+          width: 10%;
+        }
+        h1{
+            font-size:84px;
+            font-family: "LG Smart",sans-serif;
+            color: rgb(243, 138, 0);
+            font-weight: bold;
+            line-height: 1.167;
+            text-align: center;
+            padding-right: 10%;
+            span{
+              font-size:56px;
+            }
+        }
+        p{
+            font-size: 10px;
+            font-family: "LG Smart",sans-serif;
+            color: rgb(204, 204, 204);
+            line-height: .7;
+            text-align: center;
+            padding-right: 10%;
+        }
+      }
+      .grill-NeoChef{
+        display: flex;
+        justify-content:flex-start;
+        align-items: center;
+        p{
+          padding-top: 20px;
+        }
+        .yogurt-NeoChef{
+          display: flex;
+          flex-direction: column;
+          width: 15%;
+        }
+        .fried-NeoChef{
+          display: flex;
+          flex-direction: column;
+          width: 20%;
+
+        }
+        .grilled-NeoChef{
+          display: flex;
+          flex-direction: column;
+          width: 15%;
+        }
+      }
+    }
+    .bottom-text-NeoChef{
+      padding-top: 185px;
+      p{
+        font-size: 14px;
+        font-family: "LG Smart",sans-serif;
+        color: rgba(107, 107, 107,0.8);
+        line-height: 1.143;
+        text-align: center;
+      }
+
+    }
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  .container-chicken-NeoChef{
+    background-image: url("../img/chicken-pad.png");
+    background-size: inherit;
+    padding: 60px 50px;
+
+    .main-chicken-NeoChef{
+
+      .calc-chicken-NeoChef{
+        padding-top: 57px;
+        padding-left: 0;
+          img{
+            width: 60px;
+            height: 50px;
+          }
+          p{
+            font-size: 14px;
+          }
+        .pan-microwave-NeoChef{
+          padding: 0;
+          .pan-NeoChef{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 30%;
+          }
+          .microwave-NeoChef{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 30%;
+          }
+        }
+        .summ-NeoChef{
+          padding: 0;
+          .plus-NeoChef{
+            width:40%;
+            padding-left: 50px;
+            img{
+              width: 35px;
+              height: 40px;
+            }
+          }
+          .eq-NeoChef{
+            width:10%;
+            img{
+              width: 35px;
+              height: 26px;
+            }
+          }
+          h1{
+            font-size:58px;
+            span{
+              font-size:40px;
+            }
+          }
+        }
+        .grill-NeoChef{
+          padding-left: 3%;
+          p{
+          }
+          .yogurt-NeoChef{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 18%;
+          }
+          .fried-NeoChef{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 22%;
+
+          }
+          .grilled-NeoChef{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 18%;
+          }
+        }
+      }
+      .bottom-text-NeoChef{
+        padding-top: 120px;
+
+      }
+    }
+  }
+}

@@ -1,0 +1,1333 @@
+.contained-chef-NeoChef {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  height: auto;
+  padding: 176px 80px 80px 80px;
+  width: 100%; }
+  .contained-chef-NeoChef .main-chef-NeoChef {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    height: auto; }
+    .contained-chef-NeoChef .main-chef-NeoChef .title-chef-NeoChef {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      flex-direction: column;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      align-items: center; }
+      .contained-chef-NeoChef .main-chef-NeoChef .title-chef-NeoChef p {
+        font-family: "LG Smart Light",sans-serif;
+        font-size: 14px;
+        font-weight: 300;
+        color: #6b6b6b;
+        line-height: 16px;
+        text-align: center; }
+    .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      padding-top: 71px;
+      -webkit-box-pack: justify;
+      -webkit-justify-content: space-between;
+      justify-content: space-between; }
+      .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .info-chef-NeoChef {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-flex-basis: 30%;
+        flex-basis: 30%; }
+        .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .info-chef-NeoChef img {
+          max-height: 200px; }
+        .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .info-chef-NeoChef .description-chef-NeoChef {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: flex;
+          -webkit-box-orient: vertical;
+          -webkit-box-direction: normal;
+          -webkit-flex-direction: column;
+          flex-direction: column;
+          padding-left: 44px;
+          padding-top: 76px; }
+          .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .info-chef-NeoChef .description-chef-NeoChef .description-chef-NeoChef-title {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: flex;
+            -webkit-box-orient: vertical;
+            -webkit-box-direction: normal;
+            -webkit-flex-direction: column;
+            flex-direction: column;
+            padding-bottom: 22px; }
+            .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .info-chef-NeoChef .description-chef-NeoChef .description-chef-NeoChef-title h1 {
+              font-size: 24px;
+              font-family: "LG Smart SemiBold",sans-serif;
+              color: black;
+              line-height: 1.25;
+              font-weight: 400;
+              text-align: left; }
+            .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .info-chef-NeoChef .description-chef-NeoChef .description-chef-NeoChef-title p {
+              font-family: 'LG Smart Light',sans-serif;
+              color: black;
+              font-size: 18px;
+              font-weight: 300;
+              line-height: 25px;
+              text-align: left;
+              padding-top: 16px; }
+          .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .info-chef-NeoChef .description-chef-NeoChef .description-chef-NeoChef-story {
+            padding-top: 21px; }
+            .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .info-chef-NeoChef .description-chef-NeoChef .description-chef-NeoChef-story p {
+              font-size: 18px;
+              font-family: 'LG Smart Light',sans-serif;
+              color: rgba(51, 51, 51, 0.8);
+              line-height: 1.389;
+              text-align: left; }
+          .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .info-chef-NeoChef .description-chef-NeoChef hr {
+            width: 64px;
+            border: 2px solid #a50034; }
+      .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .video-chef-NeoChef {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-pack: end;
+        -webkit-justify-content: flex-end;
+        justify-content: flex-end;
+        -webkit-flex-basis: 50%;
+        flex-basis: 50%; }
+        .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .video-chef-NeoChef .chef-video-block {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: flex; }
+          .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .video-chef-NeoChef .chef-video-block img {
+            -webkit-box-shadow: 2px 0px 13px 0px rgba(0, 0, 0, 0.75);
+            box-shadow: 2px 0px 13px 0px rgba(0, 0, 0, 0.75);
+            max-width: 340px; }
+          .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .video-chef-NeoChef .chef-video-block .chef-video-text {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: flex;
+            -webkit-box-orient: vertical;
+            -webkit-box-direction: normal;
+            -webkit-flex-direction: column;
+            flex-direction: column; }
+            .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .video-chef-NeoChef .chef-video-block .chef-video-text h1 {
+              font-size: 24px;
+              font-family: "LG Smart SemiBold",sans-serif;
+              color: #010000;
+              font-weight: 400;
+              line-height: 1.25;
+              text-align: left;
+              padding-top: 25px;
+              padding-bottom: 15px; }
+            .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .video-chef-NeoChef .chef-video-block .chef-video-text p {
+              font-size: 18px;
+              font-family: 'LG Smart Light',sans-serif;
+              color: #010000;
+              line-height: 1.25;
+              text-align: left; }
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .contained-chef-NeoChef {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 140px; }
+    .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef {
+      padding-top: 35px;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      flex-direction: column;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex; }
+      .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .video-chef-NeoChef {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-flex-basis: 100%;
+        flex-basis: 100%;
+        -webkit-box-pack: end;
+        -webkit-justify-content: flex-end;
+        justify-content: flex-end;
+        -webkit-box-align: end;
+        -webkit-align-items: flex-end;
+        align-items: flex-end;
+        padding-top: 50px; }
+        .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .video-chef-NeoChef img {
+          min-width: 449px;
+          min-height: 225px; }
+        .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .video-chef-NeoChef h1 {
+          padding-right: 364px;
+          text-align: right; }
+        .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .video-chef-NeoChef p {
+          padding-right: 304px;
+          text-align: right; } }
+
+.container-chicken-NeoChef {
+  height: auto;
+  background-image: url("../img/chicken.png");
+  background-size: cover;
+  padding: 80px 120px;
+  width: 100%; }
+  .container-chicken-NeoChef .main-chicken-NeoChef {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column; }
+    .container-chicken-NeoChef .main-chicken-NeoChef .title-chicken-NeoChef {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      flex-direction: column;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      align-items: center; }
+      .container-chicken-NeoChef .main-chicken-NeoChef .title-chicken-NeoChef h1 {
+        font-size: 40px;
+        line-height: 40px;
+        color: #c9c9c9;
+        font-family: "LG Smart",sans-serif;
+        text-align: center;
+        padding-bottom: 26px;
+        font-weight: 400; }
+      .container-chicken-NeoChef .main-chicken-NeoChef .title-chicken-NeoChef p {
+        font-size: 24px;
+        font-family: "LG Smart Light",sans-serif;
+        color: rgba(201, 201, 201, 0.8);
+        text-align: center;
+        font-weight: 300;
+        line-height: 30px; }
+    .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      flex-direction: column;
+      padding-top: 120px;
+      padding-left: 50px;
+      width: 70%;
+      margin: 0 auto; }
+      .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef p {
+        font-size: 20px;
+        font-family: "LG Smart",sans-serif;
+        color: #cccccc;
+        line-height: 1.2;
+        text-align: center; }
+      .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .pan-microwave-NeoChef {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: start;
+        -webkit-justify-content: flex-start;
+        justify-content: flex-start;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+        align-items: center; }
+        .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .pan-microwave-NeoChef .pan-NeoChef {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: flex;
+          -webkit-box-orient: vertical;
+          -webkit-box-direction: normal;
+          -webkit-flex-direction: column;
+          flex-direction: column;
+          -webkit-box-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+          width: 25%;
+          padding-bottom: 20px; }
+          .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .pan-microwave-NeoChef .pan-NeoChef p {
+            padding-top: 20px; }
+        .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .pan-microwave-NeoChef .microwave-NeoChef {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: flex;
+          -webkit-box-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+          -webkit-box-orient: vertical;
+          -webkit-box-direction: normal;
+          -webkit-flex-direction: column;
+          flex-direction: column;
+          width: 25%; }
+          .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .pan-microwave-NeoChef .microwave-NeoChef p {
+            padding-top: 15px; }
+      .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .summ-NeoChef {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: center;
+        -webkit-justify-content: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+        align-items: center; }
+        .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .summ-NeoChef .plus-NeoChef {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: flex;
+          -webkit-box-pack: start;
+          -webkit-justify-content: flex-start;
+          justify-content: flex-start;
+          -webkit-box-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+          width: 32%; }
+        .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .summ-NeoChef .eq-NeoChef {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: flex;
+          width: 10%; }
+        .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .summ-NeoChef h1 {
+          font-size: 84px;
+          font-family: "LG Smart",sans-serif;
+          color: #f38a00;
+          font-weight: bold;
+          line-height: 1.167;
+          text-align: center;
+          padding-right: 10%; }
+          .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .summ-NeoChef h1 span {
+            font-size: 56px; }
+        .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .summ-NeoChef p {
+          font-size: 10px;
+          font-family: "LG Smart",sans-serif;
+          color: #cccccc;
+          line-height: .7;
+          text-align: center;
+          padding-right: 10%; }
+      .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .grill-NeoChef {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: start;
+        -webkit-justify-content: flex-start;
+        justify-content: flex-start;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+        align-items: center; }
+        .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .grill-NeoChef p {
+          padding-top: 20px; }
+        .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .grill-NeoChef .yogurt-NeoChef {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: flex;
+          -webkit-box-orient: vertical;
+          -webkit-box-direction: normal;
+          -webkit-flex-direction: column;
+          flex-direction: column;
+          width: 15%; }
+        .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .grill-NeoChef .fried-NeoChef {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: flex;
+          -webkit-box-orient: vertical;
+          -webkit-box-direction: normal;
+          -webkit-flex-direction: column;
+          flex-direction: column;
+          width: 20%; }
+        .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .grill-NeoChef .grilled-NeoChef {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: flex;
+          -webkit-box-orient: vertical;
+          -webkit-box-direction: normal;
+          -webkit-flex-direction: column;
+          flex-direction: column;
+          width: 15%; }
+    .container-chicken-NeoChef .main-chicken-NeoChef .bottom-text-NeoChef {
+      padding-top: 185px; }
+      .container-chicken-NeoChef .main-chicken-NeoChef .bottom-text-NeoChef p {
+        font-size: 14px;
+        font-family: "LG Smart",sans-serif;
+        color: rgba(107, 107, 107, 0.8);
+        line-height: 1.143;
+        text-align: center; }
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .container-chicken-NeoChef {
+    background-image: url("../img/chicken-pad.png");
+    background-size: inherit;
+    padding: 60px 50px; }
+    .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef {
+      padding-top: 57px;
+      padding-left: 0; }
+      .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef img {
+        width: 60px;
+        height: 50px; }
+      .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef p {
+        font-size: 14px; }
+      .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .pan-microwave-NeoChef {
+        padding: 0; }
+        .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .pan-microwave-NeoChef .pan-NeoChef {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: flex;
+          -webkit-box-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+          -webkit-box-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+          width: 30%; }
+        .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .pan-microwave-NeoChef .microwave-NeoChef {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: flex;
+          -webkit-box-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+          -webkit-box-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+          width: 30%; }
+      .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .summ-NeoChef {
+        padding: 0; }
+        .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .summ-NeoChef .plus-NeoChef {
+          width: 40%;
+          padding-left: 50px; }
+          .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .summ-NeoChef .plus-NeoChef img {
+            width: 35px;
+            height: 40px; }
+        .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .summ-NeoChef .eq-NeoChef {
+          width: 10%; }
+          .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .summ-NeoChef .eq-NeoChef img {
+            width: 35px;
+            height: 26px; }
+        .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .summ-NeoChef h1 {
+          font-size: 58px; }
+          .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .summ-NeoChef h1 span {
+            font-size: 40px; }
+      .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .grill-NeoChef {
+        padding-left: 3%; }
+        .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .grill-NeoChef .yogurt-NeoChef {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: flex;
+          -webkit-box-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+          -webkit-box-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+          width: 18%; }
+        .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .grill-NeoChef .fried-NeoChef {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: flex;
+          -webkit-box-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+          -webkit-box-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+          width: 22%; }
+        .container-chicken-NeoChef .main-chicken-NeoChef .calc-chicken-NeoChef .grill-NeoChef .grilled-NeoChef {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: flex;
+          -webkit-box-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+          -webkit-box-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+          width: 18%; }
+    .container-chicken-NeoChef .main-chicken-NeoChef .bottom-text-NeoChef {
+      padding-top: 120px; } }
+
+@font-face {
+  font-family: "LG Smart";
+  src: url("../fonts/LGSmartRegular.eot");
+  src: url("../fonts/LGSmartRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/LGSmartRegular.woff2") format("woff2"), url("../fonts/LGSmartRegular.woff") format("woff"), url("../fonts/LGSmartRegular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "LG Smart";
+  src: url("../fonts/LG Smart Light.eot");
+  src: url("../fonts/LG Smart Light.eot?#iefix") format("embedded-opentype"), url("../fonts/LG Smart Light.woff2") format("woff2"), url("../fonts/LG Smart Light.woff") format("woff"), url("../fonts/LG Smart Light.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "LG Smart";
+  src: url("../fonts/LG Smart SemiBold.eot");
+  src: url("../fonts/LG Smart SemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/LG Smart SemiBold.woff2") format("woff2"), url("../fonts/LG Smart SemiBold.woff") format("woff"), url("../fonts/LG Smart SemiBold.ttf") format("truetype"); }
+
+.container-footer-NeoChef {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  background-image: url("../img/bg-footer.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: auto;
+  padding: 80px 0 10px 0;
+  width: 100%; }
+  .container-footer-NeoChef .main-footere-NeoChef {
+    max-width: 1485px;
+    margin: 0 auto;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: space-around;
+    justify-content: space-around; }
+  .container-footer-NeoChef .table-footer1-NeoChef {
+    width: 33%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    padding-top: 20px; }
+    .container-footer-NeoChef .table-footer1-NeoChef h1 {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      text-align: center;
+      font-size: 40px;
+      line-height: 40px;
+      font-weight: 400;
+      color: #c9c9c9;
+      font-family: "LG Smart", sans-serif;
+      padding-bottom: 20px; }
+    .container-footer-NeoChef .table-footer1-NeoChef p {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      text-align: center;
+      color: #6b6b6b;
+      font-family: "LG Smart Light", sans-serif;
+      padding-bottom: 107px;
+      font-weight: 300;
+      font-size: 24px;
+      line-height: 30px; }
+    .container-footer-NeoChef .table-footer1-NeoChef .footer-lg {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      text-align: center; }
+    .container-footer-NeoChef .table-footer1-NeoChef .footer-logo {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+      padding-top: 63px;
+      padding-bottom: 20px; }
+    .container-footer-NeoChef .table-footer1-NeoChef .footer-img img {
+      max-width: 357px;
+      height: 220px; }
+    .container-footer-NeoChef .table-footer1-NeoChef .footer-last {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      padding-top: 15px;
+      padding-bottom: 80px; }
+      .container-footer-NeoChef .table-footer1-NeoChef .footer-last p {
+        padding-top: 0;
+        padding-bottom: 0;
+        width: 288px;
+        height: 28px;
+        color: #6b6b6b;
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 16px;
+        font-family: "LG Smart Light", sans-serif; }
+  .container-footer-NeoChef .table-footer2-NeoChef {
+    width: 33%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column; }
+    .container-footer-NeoChef .table-footer2-NeoChef h1 {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      text-align: center;
+      font-size: 40px;
+      line-height: 40px;
+      color: #c9c9c9;
+      font-family: "LG Smart", sans-serif; }
+    .container-footer-NeoChef .table-footer2-NeoChef p {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      text-align: center;
+      color: #6b6b6b;
+      font-family: "LG Smart Light", sans-serif;
+      font-size: 24px;
+      line-height: 30px;
+      font-weight: 300;
+      padding: 15px 0 0 0; }
+    .container-footer-NeoChef .table-footer2-NeoChef .footer-logo2 {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+      padding-top: 35%;
+      padding-bottom: 20px; }
+    .container-footer-NeoChef .table-footer2-NeoChef .footer-img {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      text-align: center; }
+    .container-footer-NeoChef .table-footer2-NeoChef .footer-last {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      padding-top: 15px;
+      padding-bottom: 80px; }
+      .container-footer-NeoChef .table-footer2-NeoChef .footer-last p {
+        padding-top: 0;
+        padding-bottom: 0;
+        width: 288px;
+        height: 28px;
+        color: #6b6b6b;
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 16px;
+        font-family: "LG Smart Light", sans-serif; }
+  .container-footer-NeoChef .table-footer3-NeoChef {
+    width: 33%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column; }
+    .container-footer-NeoChef .table-footer3-NeoChef .footer-lg {
+      padding-top: 40px; }
+    .container-footer-NeoChef .table-footer3-NeoChef .footer-logo {
+      padding-bottom: 20px;
+      padding-top: 20%; }
+    .container-footer-NeoChef .table-footer3-NeoChef .footer-img img {
+      max-width: 357px;
+      height: 220px; }
+    .container-footer-NeoChef .table-footer3-NeoChef .footer-last {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      padding-top: 15px;
+      padding-bottom: 80px; }
+      .container-footer-NeoChef .table-footer3-NeoChef .footer-last p {
+        padding-top: 0;
+        width: 288px;
+        height: 28px;
+        color: #6b6b6b;
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 16px;
+        font-family: "LG Smart Light", sans-serif; }
+    .container-footer-NeoChef .table-footer3-NeoChef h1 {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      text-align: center;
+      font-size: 40px;
+      line-height: 40px;
+      color: #c9c9c9;
+      font-family: "LG Smart", sans-serif;
+      padding-bottom: 25px; }
+    .container-footer-NeoChef .table-footer3-NeoChef p {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      text-align: center;
+      color: #6b6b6b;
+      font-family: "LG Smart Light", sans-serif;
+      font-weight: 300;
+      font-size: 24px;
+      line-height: 30px; }
+    .container-footer-NeoChef .table-footer3-NeoChef img {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      text-align: center; }
+
+@font-face {
+  font-family: "LG Smart";
+  src: url("../fonts/LGSmartRegular.eot");
+  src: url("../fonts/LGSmartRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/LGSmartRegular.woff2") format("woff2"), url("../fonts/LGSmartRegular.woff") format("woff"), url("../fonts/LGSmartRegular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "LG Smart";
+  src: url("../fonts/LG Smart Light.eot");
+  src: url("../fonts/LG Smart Light.eot?#iefix") format("embedded-opentype"), url("../fonts/LG Smart Light.woff2") format("woff2"), url("../fonts/LG Smart Light.woff") format("woff"), url("../fonts/LG Smart Light.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "LG Smart";
+  src: url("../fonts/LG Smart SemiBold.eot");
+  src: url("../fonts/LG Smart SemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/LG Smart SemiBold.woff2") format("woff2"), url("../fonts/LG Smart SemiBold.woff") format("woff"), url("../fonts/LG Smart SemiBold.ttf") format("truetype"); }
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+
+.container-NeoChef {
+  max-width: 1485px;
+  height: auto;
+  margin: 0 auto; }
+  .container-NeoChef .contained-header-NeoChef {
+    width: 100%;
+    background-color: black;
+    padding-left: 120px;
+    padding-right: 120px; }
+  .container-NeoChef .header-NeoChef {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center; }
+    .container-NeoChef .header-NeoChef .header-title-NeoChef {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      flex-direction: column;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+      padding-top: 74px;
+      padding-bottom: 100px; }
+      .container-NeoChef .header-NeoChef .header-title-NeoChef h1 {
+        font-size: 60px;
+        font-family: "LG Smart",sans-serif;
+        color: white;
+        font-weight: 400;
+        line-height: 0.625;
+        text-align: center;
+        padding-bottom: 65px; }
+      .container-NeoChef .header-NeoChef .header-title-NeoChef p {
+        font-family: 'LG Smart Light',sans-serif;
+        color: rgba(255, 255, 255, 0.8);
+        text-align: center;
+        font-size: 30px;
+        font-weight: 300;
+        line-height: 36px; }
+    .container-NeoChef .header-NeoChef .header-microwave-NeoChef {
+      margin-bottom: -10%; }
+      .container-NeoChef .header-NeoChef .header-microwave-NeoChef .pad-microwave {
+        display: none; }
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .container-NeoChef .header-NeoChef {
+    padding-left: 30px;
+    padding-right: 30px; }
+    .container-NeoChef .header-NeoChef .header-title-NeoChef {
+      padding-top: 130px; }
+      .container-NeoChef .header-NeoChef .header-title-NeoChef h1 {
+        line-height: 1.2;
+        padding: 0 50px; }
+      .container-NeoChef .header-NeoChef .header-title-NeoChef p {
+        padding-top: 47px; }
+    .container-NeoChef .header-NeoChef .header-microwave-NeoChef {
+      margin-bottom: -20%; }
+      .container-NeoChef .header-NeoChef .header-microwave-NeoChef .desk-microwave {
+        display: none; }
+      .container-NeoChef .header-NeoChef .header-microwave-NeoChef .pad-microwave {
+        display: block; } }
+
+.container-meat-NeoChef {
+  background-image: url("../img/bg-meat.png");
+  background-size: cover;
+  padding: 80px 5%;
+  width: 100%; }
+  .container-meat-NeoChef .main-meat-NeoChef {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column; }
+  .container-meat-NeoChef .title-meat-NeoChef {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center; }
+    .container-meat-NeoChef .title-meat-NeoChef h1 {
+      font-family: "LGSmart",sans-serif;
+      color: #c9c9c9;
+      font-size: 40px;
+      font-weight: 400;
+      line-height: 40px;
+      text-align: center;
+      padding-bottom: 27px; }
+    .container-meat-NeoChef .title-meat-NeoChef p {
+      font-size: 24px;
+      font-family: 'LG Smart Light',sans-serif;
+      color: rgba(201, 201, 201, 0.8);
+      font-weight: 300;
+      line-height: 30px;
+      text-align: center; }
+  .container-meat-NeoChef .pizza-meat-NeoChef {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    padding-top: 85px; }
+    .container-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      flex-direction: column;
+      text-align: center; }
+      .container-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef h1 {
+        font-size: 19px;
+        font-family: "LG Smart",sans-serif;
+        color: #f38a00;
+        line-height: 1.2;
+        text-align: center;
+        padding-right: 60px;
+        padding-bottom: 25px; }
+      .container-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: center;
+        -webkit-justify-content: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+        align-items: center; }
+        .container-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef .simple-meat-NeoChef {
+          width: 205px;
+          height: 205px;
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: flex;
+          -webkit-box-orient: vertical;
+          -webkit-box-direction: normal;
+          -webkit-flex-direction: column;
+          flex-direction: column;
+          -webkit-box-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+          -webkit-box-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+          background-image: url("../img/cup.svg");
+          background-repeat: no-repeat;
+          background-position: center;
+          -webkit-border-radius: 50%;
+          border-radius: 50%; }
+          .container-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef .simple-meat-NeoChef .arrow-meat-NeoChef {
+            padding-bottom: 70px; }
+          .container-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef .simple-meat-NeoChef h1 {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: flex;
+            -webkit-box-pack: end;
+            -webkit-justify-content: flex-end;
+            justify-content: flex-end;
+            -webkit-box-align: end;
+            -webkit-align-items: flex-end;
+            align-items: flex-end;
+            font-family: 'LG Smart SemiBold',sans-serif;
+            color: #e2e2e2;
+            font-size: 19px;
+            font-weight: 400;
+            text-align: center;
+            padding: 0;
+            margin-bottom: 62px;
+            margin-top: 62px; }
+          .container-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef .simple-meat-NeoChef p {
+            font-size: 19px;
+            font-family: "LG Smart",sans-serif;
+            color: #e2e2e2;
+            line-height: 1.2;
+            text-align: center; }
+        .container-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef .neo-meat-NeoChef {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: flex;
+          -webkit-box-orient: vertical;
+          -webkit-box-direction: normal;
+          -webkit-flex-direction: column;
+          flex-direction: column;
+          -webkit-box-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+          -webkit-box-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+          width: 205px;
+          height: 205px;
+          background-repeat: no-repeat;
+          background-image: url("../img/cup.svg");
+          background-position: center;
+          -webkit-border-radius: 50%;
+          border-radius: 50%;
+          margin-left: 10px; }
+          .container-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef .neo-meat-NeoChef .arrow-meat-NeoChef {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: flex;
+            -webkit-box-pack: center;
+            -webkit-justify-content: center;
+            justify-content: center;
+            -webkit-box-align: center;
+            -webkit-align-items: center;
+            align-items: center;
+            width: 100%;
+            padding-right: 70px;
+            padding-bottom: 70px; }
+            .container-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef .neo-meat-NeoChef .arrow-meat-NeoChef p {
+              font-size: 14px;
+              font-family: "LG Smart",sans-serif;
+              color: white;
+              line-height: 1;
+              text-align: right; }
+          .container-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef .neo-meat-NeoChef h1 {
+            font-family: 'LG Smart SemiBold',sans-serif;
+            color: #e2e2e2;
+            font-size: 19px;
+            font-weight: 400;
+            text-align: center;
+            padding: 0;
+            margin-bottom: 62px;
+            margin-top: 62px; }
+        .container-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef .scale-meat-NeoChef {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: flex; }
+          .container-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef .scale-meat-NeoChef .scale-text-NeoChef p {
+            font-size: 14px;
+            font-family: "LG Smart",sans-serif;
+            color: #e2e2e2;
+            line-height: 1.2;
+            text-align: right;
+            padding-right: 10px; }
+          .container-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef .scale-meat-NeoChef .scale-text-NeoChef p:first-child {
+            padding-bottom: 169px; }
+  .container-meat-NeoChef .stake-meat-NeoChef {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    justify-content: flex-start;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    padding-top: 35%; }
+    .container-meat-NeoChef .stake-meat-NeoChef .degree-stake-NeoChef {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      flex-direction: column;
+      text-align: center; }
+      .container-meat-NeoChef .stake-meat-NeoChef .degree-stake-NeoChef h1 {
+        font-size: 19px;
+        font-family: "LG Smart",sans-serif;
+        color: #f38a00;
+        line-height: 1.2;
+        text-align: center;
+        padding-left: 80px;
+        padding-bottom: 25px; }
+      .container-meat-NeoChef .stake-meat-NeoChef .degree-stake-NeoChef .cups-meat-NeoChef {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: center;
+        -webkit-justify-content: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+        align-items: center;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: reverse;
+        -webkit-flex-direction: row-reverse;
+        flex-direction: row-reverse; }
+        .container-meat-NeoChef .stake-meat-NeoChef .degree-stake-NeoChef .cups-meat-NeoChef .simple-stake-NeoChef {
+          width: 205px;
+          height: 205px;
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: flex;
+          -webkit-box-orient: vertical;
+          -webkit-box-direction: normal;
+          -webkit-flex-direction: column;
+          flex-direction: column;
+          -webkit-box-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+          -webkit-box-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+          background-image: url("../img/meat-2.png");
+          background-repeat: no-repeat;
+          background-position: center;
+          -webkit-border-radius: 50%;
+          border-radius: 50%; }
+          .container-meat-NeoChef .stake-meat-NeoChef .degree-stake-NeoChef .cups-meat-NeoChef .simple-stake-NeoChef h1 {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: flex;
+            -webkit-box-pack: end;
+            -webkit-justify-content: flex-end;
+            justify-content: flex-end;
+            -webkit-box-align: end;
+            -webkit-align-items: flex-end;
+            align-items: flex-end;
+            font-family: 'LG Smart SemiBold',sans-serif;
+            font-size: 19px;
+            color: #e2e2e2;
+            font-weight: 400;
+            text-align: center;
+            padding: 0;
+            margin-bottom: 150px;
+            margin-top: 62px; }
+        .container-meat-NeoChef .stake-meat-NeoChef .degree-stake-NeoChef .cups-meat-NeoChef .neo-stake-NeoChef {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: flex;
+          -webkit-box-orient: vertical;
+          -webkit-box-direction: normal;
+          -webkit-flex-direction: column;
+          flex-direction: column;
+          -webkit-box-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+          -webkit-box-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+          width: 205px;
+          height: 205px;
+          background-repeat: no-repeat;
+          background-image: url("../img/meat.svg");
+          background-position: center;
+          -webkit-border-radius: 50%;
+          border-radius: 50%;
+          margin-right: 10px; }
+          .container-meat-NeoChef .stake-meat-NeoChef .degree-stake-NeoChef .cups-meat-NeoChef .neo-stake-NeoChef h1 {
+            font-family: 'LG Smart SemiBold',sans-serif;
+            font-size: 19px;
+            color: #e2e2e2;
+            font-weight: 400;
+            text-align: center;
+            padding: 0;
+            margin-bottom: 150px;
+            margin-top: 62px; }
+          .container-meat-NeoChef .stake-meat-NeoChef .degree-stake-NeoChef .cups-meat-NeoChef .neo-stake-NeoChef p {
+            font-size: 19px;
+            font-family: "LG Smart",sans-serif;
+            color: #e2e2e2;
+            line-height: 1.2;
+            text-align: center; }
+        .container-meat-NeoChef .stake-meat-NeoChef .degree-stake-NeoChef .cups-meat-NeoChef .scale-stake-NeoChef {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: flex;
+          -webkit-box-orient: horizontal;
+          -webkit-box-direction: reverse;
+          -webkit-flex-direction: row-reverse;
+          flex-direction: row-reverse; }
+          .container-meat-NeoChef .stake-meat-NeoChef .degree-stake-NeoChef .cups-meat-NeoChef .scale-stake-NeoChef .scale-text-NeoChef p {
+            font-size: 14px;
+            font-family: "LG Smart",sans-serif;
+            color: #e2e2e2;
+            line-height: 1.2;
+            text-align: right;
+            padding-left: 10px; }
+          .container-meat-NeoChef .stake-meat-NeoChef .degree-stake-NeoChef .cups-meat-NeoChef .scale-stake-NeoChef .scale-text-NeoChef p:first-child {
+            padding-bottom: 169px; }
+  .container-meat-NeoChef .bottom-meat-NeoChef {
+    padding-top: 30%; }
+    .container-meat-NeoChef .bottom-meat-NeoChef p {
+      font-size: 14px;
+      font-family: "LG Smart Light",sans-serif;
+      color: rgba(107, 107, 107, 0.8);
+      line-height: 1.143;
+      text-align: center; }
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .container-meat-NeoChef {
+    background-image: url("../img/bg-meat-pad.png");
+    background-size: inherit;
+    padding: 60px 50px; }
+    .container-meat-NeoChef .main-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef h1 {
+      font-size: 14px;
+      padding-bottom: 0;
+      padding-right: 80px; }
+    .container-meat-NeoChef .main-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef .simple-meat-NeoChef {
+      width: 149px;
+      height: 149px;
+      background-size: 90%; }
+      .container-meat-NeoChef .main-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef .simple-meat-NeoChef .arrow-meat-NeoChef {
+        padding-bottom: 30px; }
+        .container-meat-NeoChef .main-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef .simple-meat-NeoChef .arrow-meat-NeoChef img {
+          height: 36px; }
+      .container-meat-NeoChef .main-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef .simple-meat-NeoChef h1 {
+        margin-top: 40px;
+        margin-bottom: 40px; }
+      .container-meat-NeoChef .main-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef .simple-meat-NeoChef p {
+        font-size: 14px; }
+    .container-meat-NeoChef .main-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef .neo-meat-NeoChef {
+      width: 149px;
+      height: 149px;
+      background-size: 90%; }
+      .container-meat-NeoChef .main-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef .neo-meat-NeoChef .arrow-meat-NeoChef {
+        padding-bottom: 40px; }
+        .container-meat-NeoChef .main-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef .neo-meat-NeoChef .arrow-meat-NeoChef img {
+          height: 36px; }
+      .container-meat-NeoChef .main-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef .neo-meat-NeoChef h1 {
+        margin-top: 30px;
+        margin-bottom: 40px; }
+      .container-meat-NeoChef .main-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef .neo-meat-NeoChef p {
+        font-size: 14px; }
+    .container-meat-NeoChef .main-meat-NeoChef .stake-meat-NeoChef {
+      padding-top: 40px;
+      padding-bottom: 60px; }
+      .container-meat-NeoChef .main-meat-NeoChef .stake-meat-NeoChef .degree-stake-NeoChef h1 {
+        font-size: 14px;
+        padding-bottom: 0; }
+      .container-meat-NeoChef .main-meat-NeoChef .stake-meat-NeoChef .degree-stake-NeoChef .cups-meat-NeoChef .simple-stake-NeoChef {
+        width: 149px;
+        height: 149px;
+        background-size: 90%; }
+        .container-meat-NeoChef .main-meat-NeoChef .stake-meat-NeoChef .degree-stake-NeoChef .cups-meat-NeoChef .simple-stake-NeoChef h1 {
+          margin-top: 50px;
+          margin-bottom: 100px; }
+        .container-meat-NeoChef .main-meat-NeoChef .stake-meat-NeoChef .degree-stake-NeoChef .cups-meat-NeoChef .simple-stake-NeoChef p {
+          font-size: 14px; }
+      .container-meat-NeoChef .main-meat-NeoChef .stake-meat-NeoChef .degree-stake-NeoChef .cups-meat-NeoChef .neo-stake-NeoChef {
+        width: 149px;
+        height: 149px;
+        background-size: 90%; }
+        .container-meat-NeoChef .main-meat-NeoChef .stake-meat-NeoChef .degree-stake-NeoChef .cups-meat-NeoChef .neo-stake-NeoChef h1 {
+          margin-top: 50px;
+          margin-bottom: 100px; }
+        .container-meat-NeoChef .main-meat-NeoChef .stake-meat-NeoChef .degree-stake-NeoChef .cups-meat-NeoChef .neo-stake-NeoChef p {
+          font-size: 14px; }
+    .container-meat-NeoChef .main-meat-NeoChef .bottom-meat-NeoChef {
+      padding-top: 40px; } }
+
+.container-microwave-NeoChef {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  background-image: url("../img/bg-micro.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: auto;
+  padding: 50px 120px; }
+  .container-microwave-NeoChef .main-microwave-NeoChef {
+    max-width: 1485px;
+    margin: 0 auto;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    padding-top: 75px; }
+    .container-microwave-NeoChef .main-microwave-NeoChef .title-smart-NeoChef {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      flex-direction: column;
+      text-align: center; }
+      .container-microwave-NeoChef .main-microwave-NeoChef .title-smart-NeoChef h1 {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: center;
+        -webkit-justify-content: center;
+        justify-content: center;
+        text-align: center;
+        font-family: "LG Smart",sans-serif;
+        color: #c9c9c9;
+        font-size: 40px;
+        font-weight: 400;
+        line-height: 40px;
+        padding-bottom: 25px; }
+      .container-microwave-NeoChef .main-microwave-NeoChef .title-smart-NeoChef p {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: center;
+        -webkit-justify-content: center;
+        justify-content: center;
+        text-align: center;
+        font-family: "LG Smart",sans-serif;
+        color: #c9c9c9;
+        font-size: 24px;
+        font-weight: 300;
+        line-height: 30px;
+        opacity: 0.8; }
+    .container-microwave-NeoChef .main-microwave-NeoChef .bottom-microwave-NeoChef {
+      padding-top: 50%; }
+      .container-microwave-NeoChef .main-microwave-NeoChef .bottom-microwave-NeoChef p {
+        color: #6b6b6b;
+        font-family: "LG Smart Light",sans-serif;
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 16px;
+        text-align: center; }
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .container-microwave-NeoChef {
+    background-image: url("../img/bg-micro-pad.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; }
+    .container-microwave-NeoChef .main-microwave-NeoChef {
+      padding-top: 0; }
+      .container-microwave-NeoChef .main-microwave-NeoChef .bottom-microwave-NeoChef {
+        padding-top: 322px; } }
