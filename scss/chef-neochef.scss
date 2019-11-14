@@ -33,7 +33,7 @@
       width: 100%;
       .info-chef-NeoChef{
         display: flex;
-        flex-basis: 40%;
+        flex-basis: 600px;
         img{
           max-height: 200px;
         }
@@ -84,9 +84,10 @@
         display: flex;
         flex-direction: column;
         justify-content: flex-end;
-        flex-basis:40%;
+        flex-basis:600px;
         .chef-video-block{
           display: flex;
+          width: 100%;
           img{
             box-shadow: 2px 0px 13px 0px rgba(0,0,0,0.75);
             max-width: 340px;
@@ -95,6 +96,7 @@
             display: flex;
             flex-direction: column;
             padding-left: 55px;
+            width: 100%;
             h1{
               font-size: 24px;
               font-family: "LG Smart SemiBold",sans-serif;
