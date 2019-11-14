@@ -1,9 +1,11 @@
 .container-meat-NeoChef{
   background-image: url("../img/bg-meat.png");
-  background-size: cover;
-  padding: 80px 5%;
+  background-size:100% 100%;
+  background-repeat: no-repeat;
+  padding: 80px 120px;
   width: 100%;
   .main-meat-NeoChef{
+    width: 100%;
     display: flex;
     flex-direction: column;
   }
@@ -34,7 +36,7 @@
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    padding-top: 85px;
+    padding-top: 75px;
     .degree-meat-NeoChef{
       display: flex;
       justify-content: center;
@@ -152,7 +154,7 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    padding-top: 35%;
+    padding-top: 197px;
     .degree-stake-NeoChef{
       display: flex;
       justify-content: center;
@@ -250,7 +252,7 @@
     }
   }
   .bottom-meat-NeoChef{
-    padding-top: 30%;
+    padding-top: 250px;
     p{
       font-size: 14px;
       font-family: "LG Smart Light",sans-serif;

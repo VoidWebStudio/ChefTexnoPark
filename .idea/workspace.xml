@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a84221d2-5bed-41d2-ae11-6fc38c03dff8" name="Default Changelist" comment="" />
+    <list default="true" id="a84221d2-5bed-41d2-ae11-6fc38c03dff8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/App/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/img/fish-video.png" beforeDir="false" afterPath="$PROJECT_DIR$/App/img/fish-video.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/img/meat-video.png" beforeDir="false" afterPath="$PROJECT_DIR$/App/img/meat-video.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/footer-NeoChef.pug" beforeDir="false" afterPath="$PROJECT_DIR$/modules/footer-NeoChef.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/chef-neochef.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/chef-neochef.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/chicken-neochef.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/chicken-neochef.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/footer-NeoChef.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/footer-NeoChef.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/meat-neochef.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/meat-neochef.scss" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +35,7 @@
   <component name="ProjectId" id="1TbuqRY0JDy5QgtWoPQijqFAHc1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -51,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573741306203</updated>
-      <workItem from="1573741309760" duration="1821000" />
+      <workItem from="1573741309760" duration="10342000" />
     </task>
     <servers />
   </component>

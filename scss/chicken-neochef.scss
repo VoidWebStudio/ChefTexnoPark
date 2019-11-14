@@ -65,6 +65,7 @@
           justify-content: center;
           flex-direction: column;
           width: 25%;
+
           p{
             padding-top: 15px;
           }
@@ -74,11 +75,15 @@
         display: flex;
         justify-content: center;
         align-items: center;
+        max-height: 76px;
+        padding-bottom: 17px;
+        padding-right: 10%;
         .plus-NeoChef{
           display: flex;
           justify-content: flex-start;
           align-items: center;
           width:32%;
+          padding-left: 2%;
         }
         .eq-NeoChef{
           display: flex;
@@ -109,24 +114,25 @@
         display: flex;
         justify-content:flex-start;
         align-items: center;
+        padding-right: 25%;
         p{
           padding-top: 20px;
         }
         .yogurt-NeoChef{
           display: flex;
           flex-direction: column;
-          width: 15%;
+          width: 20%;
         }
         .fried-NeoChef{
           display: flex;
           flex-direction: column;
-          width: 20%;
+          width: 25%;
 
         }
         .grilled-NeoChef{
           display: flex;
           flex-direction: column;
-          width: 15%;
+          width: 20%;
         }
       }
     }

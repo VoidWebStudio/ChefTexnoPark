@@ -9,13 +9,12 @@
   width: 100%;
 
   .main-footere-NeoChef{
-    max-width: 1485px;
     margin: 0 auto;
     display: flex;
     justify-content: space-around;
   }
   .table-footer1-NeoChef {
-    width: 33%;
+    width:450px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -36,24 +35,26 @@
       display: flex;
       justify-content: center;
       text-align: center;
-      color: #6b6b6b;
+      color: #c9c9c9;
       font-family: "LG Smart Light", sans-serif;
-      padding-bottom: 107px;
       font-weight: 300;
       font-size: 24px;
       line-height: 30px;
+      opacity: 0.8;
     }
     .footer-lg{
       display: flex;
       justify-content: center;
       text-align: center;
+      padding-top: 60px;
+
     }
     .footer-logo{
       display: flex;
       justify-content: center;
       align-items: center;
-      padding-top: 63px;
-      padding-bottom: 20px;
+      padding-top: 67px;
+      padding-bottom: 40px;
     }
     .footer-img{
       img{
@@ -63,7 +64,7 @@
     }
     .footer-last{
       display: flex;
-      padding-top: 15px;
+      padding-top: 20px;
       padding-bottom: 80px;
       p{
         padding-top: 0;
@@ -80,11 +81,14 @@
     }
   }
   .table-footer2-NeoChef {
-    width: 33%;
+    width: 450px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    padding-bottom: 40px;
+    padding-left: 25px;
+    padding-right: 25px;
     h1{
       display: flex;
       justify-content: center;
@@ -98,19 +102,21 @@
       display: flex;
       justify-content: center;
       text-align: center;
-      color: #6b6b6b;
+      color: #c9c9c9;
       font-family: "LG Smart Light", sans-serif;
       font-size: 24px;
       line-height: 30px;
       font-weight: 300;
-      padding: 15px 0 0 0;
+      padding: 10px 0 0 0;
+      opacity: 0.8;
     }
     .footer-logo2{
       display: flex;
       justify-content: center;
       align-items: center;
-      padding-top:35%;
-      padding-bottom: 20px;
+      padding-top: 90px;
+      padding-bottom: 40px;
+      margin-top: 25px;
     }
     .footer-logo2 img{
 
@@ -123,11 +129,9 @@
     }
     .footer-last{
       display: flex;
-      padding-top: 15px;
-      padding-bottom: 80px;
       p{
-        padding-top: 0;
-        padding-bottom: 0;
+        padding-top: 15px;
+        padding-bottom: 80px;
         width: 288px;
         height: 28px;
         color: #6b6b6b;
@@ -140,17 +144,19 @@
     }
   }
   .table-footer3-NeoChef {
-    width: 33%;
+    width: 450px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    padding-left: 25px;
+    padding-right: 25px;
     .footer-lg{
-      padding-top: 40px;
+      padding-top: 63px;
+      padding-bottom: 70px;
     }
     .footer-logo{
-      padding-bottom: 20px;
-      padding-top: 20%;
+      padding-bottom: 40px;
     }
     .footer-img{
       img{
@@ -171,6 +177,7 @@
         font-weight: 300;
         line-height: 16px;
         font-family: "LG Smart Light", sans-serif;
+        opacity: 0.8;
 
       }
     }
@@ -189,11 +196,12 @@
       display: flex;
       justify-content: center;
       text-align: center;
-      color: #6b6b6b;
+      color: #c9c9c9;
       font-family: "LG Smart Light", sans-serif;
       font-weight: 300;
       font-size: 24px;
       line-height: 30px;
+      opacity: 0.8;
     }
     img{
       display: flex;
