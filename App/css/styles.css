@@ -902,10 +902,10 @@
       flex-direction: column;
       text-align: center; }
       .container-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef h1 {
-        font-size: 19px;
-        font-family: "LG Smart",sans-serif;
         color: #f38a00;
-        line-height: 1.2;
+        font-family: "LG Smart",sans-serif;
+        font-size: 19px;
+        font-weight: 400;
         text-align: center;
         padding-right: 60px;
         padding-bottom: 25px; }
@@ -961,10 +961,10 @@
             margin-bottom: 62px;
             margin-top: 62px; }
           .container-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef .simple-meat-NeoChef p {
-            font-size: 19px;
-            font-family: "LG Smart",sans-serif;
             color: #e2e2e2;
-            line-height: 1.2;
+            font-family: "LG Smart",sans-serif;
+            font-size: 19px;
+            font-weight: 400;
             text-align: center; }
         .container-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef .neo-meat-NeoChef {
           display: -webkit-box;
