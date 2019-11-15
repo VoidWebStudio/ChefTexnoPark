@@ -1304,11 +1304,11 @@
         -webkit-justify-content: center;
         justify-content: center;
         text-align: center;
-        font-family: "LG Smart",sans-serif;
-        color: #c9c9c9;
-        font-size: 24px;
+        font-family: "LG Smart Light",sans-serif;
         font-weight: 300;
         line-height: 30px;
+        color: #c9c9c9;
+        font-size: 24px;
         opacity: 0.8; }
     .container-microwave-NeoChef .main-microwave-NeoChef .bottom-microwave-NeoChef {
       padding-top: 50%; }
