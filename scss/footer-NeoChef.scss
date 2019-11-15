@@ -149,3 +149,64 @@
     }
   }
 }
+@media (min-width: 1025px) and (max-width: 1200px) {
+  .container-footer-NeoChef{
+    .main-footere-NeoChef{
+      background-size: 110% 100%;
+      background-position: inherit;
+      width: 1200px;
+      margin: auto;
+      .table-footer-NeoChef{
+        .table-footer1-NeoChef{
+          .text2-footer1-NeoChef{
+            width: 36%;
+            padding-left: 0;
+            padding-right: 0;
+            padding-bottom: 40px;
+            margin: 0 auto;
+            p{
+              br:nth-child(2){
+                display: none;
+              }
+            }
+          }
+          .text1-footer1-NeoChef{
+            width: 36%;
+            padding-left: 0;
+            padding-right: 0;
+            padding-bottom: 150px;
+            margin: 0 auto;
+          }
+          .text3-footer1-NeoChef{
+            width: 36%;
+            padding-left: 0;
+            padding-right: 0;
+            padding-bottom: 150px;
+            margin: 0 auto;
+          }
+        }
+
+
+      }
+      .footer-last{
+        p:nth-child(1){
+          display: flex;
+          flex-basis: 33%;
+          justify-content: center;
+        }
+        p:nth-child(2){
+          display: flex;
+          flex-basis: 50%;
+          justify-content: center;
+        }
+        p:nth-child(3){
+          display: flex;
+          flex-basis: 33%;
+          justify-content: center;
+        }
+      }
+    }
+
+  }
+
+}

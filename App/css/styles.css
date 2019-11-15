@@ -732,6 +732,60 @@
       -webkit-justify-content: center;
       justify-content: center; }
 
+@media (min-width: 1025px) and (max-width: 1200px) {
+  .container-footer-NeoChef .main-footere-NeoChef {
+    background-size: 110% 100%;
+    background-position: inherit;
+    width: 1200px;
+    margin: auto; }
+    .container-footer-NeoChef .main-footere-NeoChef .table-footer-NeoChef .table-footer1-NeoChef .text2-footer1-NeoChef {
+      width: 36%;
+      padding-left: 0;
+      padding-right: 0;
+      padding-bottom: 40px;
+      margin: 0 auto; }
+      .container-footer-NeoChef .main-footere-NeoChef .table-footer-NeoChef .table-footer1-NeoChef .text2-footer1-NeoChef p br:nth-child(2) {
+        display: none; }
+    .container-footer-NeoChef .main-footere-NeoChef .table-footer-NeoChef .table-footer1-NeoChef .text1-footer1-NeoChef {
+      width: 36%;
+      padding-left: 0;
+      padding-right: 0;
+      padding-bottom: 150px;
+      margin: 0 auto; }
+    .container-footer-NeoChef .main-footere-NeoChef .table-footer-NeoChef .table-footer1-NeoChef .text3-footer1-NeoChef {
+      width: 36%;
+      padding-left: 0;
+      padding-right: 0;
+      padding-bottom: 150px;
+      margin: 0 auto; }
+    .container-footer-NeoChef .main-footere-NeoChef .footer-last p:nth-child(1) {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-flex-basis: 33%;
+      flex-basis: 33%;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center; }
+    .container-footer-NeoChef .main-footere-NeoChef .footer-last p:nth-child(2) {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-flex-basis: 50%;
+      flex-basis: 50%;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center; }
+    .container-footer-NeoChef .main-footere-NeoChef .footer-last p:nth-child(3) {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-flex-basis: 33%;
+      flex-basis: 33%;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center; } }
+
 @font-face {
   font-family: "LG Smart";
   src: url("../fonts/LGSmartRegular.eot");
