@@ -4,13 +4,14 @@
     <list default="true" id="a84221d2-5bed-41d2-ae11-6fc38c03dff8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/App/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/img/bg-micro.png" beforeDir="false" afterPath="$PROJECT_DIR$/App/img/bg-micro.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/img/chicken.png" beforeDir="false" afterPath="$PROJECT_DIR$/App/img/chicken.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/img/video-vlad.png" beforeDir="false" afterPath="$PROJECT_DIR$/App/img/video-vlad.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/chicken-neochef.pug" beforeDir="false" afterPath="$PROJECT_DIR$/modules/chicken-neochef.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/footer-NeoChef.pug" beforeDir="false" afterPath="$PROJECT_DIR$/modules/footer-NeoChef.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/header-NeoChef.pug" beforeDir="false" afterPath="$PROJECT_DIR$/modules/header-NeoChef.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/meat-neochef.pug" beforeDir="false" afterPath="$PROJECT_DIR$/modules/meat-neochef.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/chef-neochef.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/chef-neochef.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/chicken-neochef.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/chicken-neochef.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/footer-NeoChef.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/footer-NeoChef.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/header-NeoChef.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/header-NeoChef.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/meat-neochef.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/meat-neochef.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/microwave-NeoChef.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/microwave-NeoChef.scss" afterDir="false" />
@@ -67,7 +68,8 @@
       <updated>1573741306203</updated>
       <workItem from="1573741309760" duration="26344000" />
       <workItem from="1573786604148" duration="1102000" />
-      <workItem from="1573807552877" duration="3516000" />
+      <workItem from="1573807552877" duration="5495000" />
+      <workItem from="1573856509842" duration="2240000" />
     </task>
     <servers />
   </component>
