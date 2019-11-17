@@ -127,7 +127,8 @@
 }
 @media (min-width: 768px) and (max-width: 1024px) {
   .contained-chef-NeoChef{
-    padding: 140px 50px 50px;
+    padding: 140px 20px 46px 20px ;
+    height: auto;
 
     .main-chef-NeoChef{
 
@@ -141,25 +142,85 @@
         padding-top: 35px;
         flex-direction: column;
         display: flex;
-
+        .info-chef-NeoChef{
+          flex-basis: 100%;
+          justify-content: space-between;
+          img{
+            padding-left: 20px;
+          }
+          .description-chef-NeoChef{
+            padding-top: 0;
+            hr{
+              margin-left: 25px;
+            }
+            .description-chef-NeoChef-title{
+              width: 90%;
+              margin: 0 auto;
+              p{
+                padding-bottom:0;
+                br{
+                  display: none;
+                }
+              }
+            }
+            .description-chef-NeoChef-story{
+              width: 90%;
+              margin: 0 auto;
+              p{
+                padding-top: 0;
+                br{
+                  display: none;
+                }
+              }
+            }
+          }
+          h1{
+            padding-top: 0;
+            padding-bottom: 0;
+          }
+          p{
+            padding-top: 0;
+          }
+        }
         .video-chef-NeoChef{
           display: flex;
           flex-basis: 100% ;
-          justify-content: flex-end;
-          align-items: flex-end;
+          width: 100%;
+          justify-content: space-between;
+          flex-direction: row;
           padding-top: 50px;
+          .chef-video-block{
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            .chef-video-text{
+              justify-content: flex-start;
+              align-items: flex-start;
+              padding-left: 0;
+              max-width: 327px;
+              padding-right: 0;
+              h1{
+                padding-right: 0;
+                text-align: right;
+                padding-bottom: 5px;
+                padding-top: 5px;
+                line-height: 28px;
+              }
+              p{
+                padding-right: 0;
+                text-align: right;
+              }
+            }
+          }
+          .chef-video-block:first-child{
+            padding-bottom: 0;
+          }
           img{
-            min-width: 449px;
-            min-height: 225px;
+            min-width: 327px;
+            min-height: 170px;
           }
-          h1{
-            padding-right: 364px;
-            text-align: right;
-          }
-          p{
-            padding-right: 304px;
-            text-align: right;
-          }
+
+
         }
       }
     }

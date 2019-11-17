@@ -30,7 +30,7 @@
       width: 100%;
       h1{
           font-size: 60px;
-          font-family: "LG Smart",sans-serif;
+          font-family: "LG Smart Light",sans-serif;
           color: rgb(255, 255, 255);
           font-weight: 400;
           line-height: 0.625;
@@ -46,6 +46,9 @@
         font-weight: 300;
         line-height: 36px;
         text-align: center;
+        br{
+          display: none;
+        }
       }
     }
     .header-microwave-NeoChef{
@@ -69,8 +72,8 @@
       .header-title-NeoChef{
         padding-top: 50px;
         h1{
-          line-height: 1.2;
-          padding: 0 50px;
+          line-height: 45px;
+          padding: 0 0;
         }
         p{
           padding-top: 47px;
@@ -104,17 +107,22 @@
         padding-left: 30px;
         padding-right: 30px;
         .header-title-NeoChef{
-          padding-top: 50px;
+          padding-top: 20px;
+          padding-bottom: 31px;
           h1{
+            width: 70%;
             padding-bottom: 0;
             font-size: 23px;
-            line-height: 1.2;
+            line-height: 21px;
           }
           p{
             font-weight: 300;
             line-height: 21px;
             font-size: 16px;
             padding-top: 16px;
+            br{
+              display: block;
+            }
           }
         }
         .header-microwave-NeoChef{
