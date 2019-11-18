@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a84221d2-5bed-41d2-ae11-6fc38c03dff8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/microwave-NeoChef.pug" beforeDir="false" afterPath="$PROJECT_DIR$/modules/microwave-NeoChef.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/microwave-NeoChef.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/microwave-NeoChef.scss" afterDir="false" />
-    </list>
+    <list default="true" id="a84221d2-5bed-41d2-ae11-6fc38c03dff8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +57,7 @@
       <workItem from="1573807552877" duration="5495000" />
       <workItem from="1573856509842" duration="2354000" />
       <workItem from="1573935962623" duration="17821000" />
-      <workItem from="1574073590773" duration="1380000" />
+      <workItem from="1574073590773" duration="1930000" />
     </task>
     <servers />
   </component>
