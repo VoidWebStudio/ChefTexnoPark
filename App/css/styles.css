@@ -2177,19 +2177,14 @@
         line-height: 40px;
         padding-bottom: 17px; }
       .container-microwave-NeoChef .main-microwave-NeoChef .title-smart-NeoChef p {
-        display: -webkit-box;
-        display: -webkit-flex;
-        display: flex;
-        -webkit-box-pack: center;
-        -webkit-justify-content: center;
-        justify-content: center;
-        text-align: center;
         font-family: "LG Smart Light",sans-serif;
         font-weight: 300;
         line-height: 30px;
         color: #c9c9c9;
         font-size: 24px;
         opacity: 0.8; }
+      .container-microwave-NeoChef .main-microwave-NeoChef .title-smart-NeoChef sup {
+        font-size: 12px; }
     .container-microwave-NeoChef .main-microwave-NeoChef .logo-microwave-NeoChef {
       display: none; }
     .container-microwave-NeoChef .main-microwave-NeoChef .logo-microwave-mob-NeoChef {
