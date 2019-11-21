@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="a84221d2-5bed-41d2-ae11-6fc38c03dff8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/chicken-neochef.pug" beforeDir="false" afterPath="$PROJECT_DIR$/modules/chicken-neochef.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/App/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/chef-neochef.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/chef-neochef.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/chicken-neochef.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/chicken-neochef.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/meat-neochef.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/meat-neochef.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/microwave-NeoChef.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/microwave-NeoChef.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +68,8 @@
       <workItem from="1574287490118" duration="559000" />
       <workItem from="1574292505097" duration="2939000" />
       <workItem from="1574299213438" duration="618000" />
-      <workItem from="1574306430251" duration="69000" />
+      <workItem from="1574306430251" duration="879000" />
+      <workItem from="1574372294826" duration="1309000" />
     </task>
     <servers />
   </component>
