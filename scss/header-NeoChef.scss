@@ -10,6 +10,7 @@
   margin: 0 auto;
   display: flex;
   flex-direction: column;
+  background-color: black;
   .contained-header-NeoChef{
     width: 100%;
     background-color: black;
@@ -55,6 +56,8 @@
     }
     .header-microwave-NeoChef{
       margin-bottom: -10%;
+      position:relative;
+      z-index: 1;
       .pad-microwave{
         display: none;
       }

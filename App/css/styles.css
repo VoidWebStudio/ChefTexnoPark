@@ -4,7 +4,8 @@
   display: flex;
   height: auto;
   padding: 176px 70px 80px 80px;
-  width: 100%; }
+  width: 100%;
+  background-color: white; }
   .contained-chef-NeoChef .main-chef-NeoChef {
     width: 100%;
     display: -webkit-box;
@@ -380,13 +381,16 @@
       display: -webkit-box;
       display: -webkit-flex;
       display: flex;
-      padding-left: 20px; }
+      padding-left: 20px;
+      width: 100%; }
       .container-chicken-NeoChef .main-chicken-NeoChef .chiken-block .chiken-plate {
         display: -webkit-box;
         display: -webkit-flex;
         display: flex;
-        margin-right: -17.5%;
-        width: 100%; }
+        margin-right: -19%;
+        width: 100%;
+        -webkit-flex-basis: 95%;
+        flex-basis: 95%; }
         .container-chicken-NeoChef .main-chicken-NeoChef .chiken-block .chiken-plate img {
           width: 70%;
           display: -webkit-box;
@@ -1487,7 +1491,8 @@
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
-  flex-direction: column; }
+  flex-direction: column;
+  background-color: black; }
   .container-NeoChef .contained-header-NeoChef {
     width: 100%;
     background-color: black;
@@ -1544,7 +1549,9 @@
         .container-NeoChef .header-NeoChef .header-title-NeoChef p br {
           display: none; }
     .container-NeoChef .header-NeoChef .header-microwave-NeoChef {
-      margin-bottom: -10%; }
+      margin-bottom: -10%;
+      position: relative;
+      z-index: 1; }
       .container-NeoChef .header-NeoChef .header-microwave-NeoChef .pad-microwave {
         display: none; }
       .container-NeoChef .header-NeoChef .header-microwave-NeoChef .mob-microwave {
@@ -1694,7 +1701,8 @@
         font-weight: 400;
         text-align: center;
         padding-right: 60px;
-        padding-bottom: 25px; }
+        padding-bottom: 25px;
+        margin-bottom: -30px; }
       .container-meat-NeoChef .pizza-meat-NeoChef .degree-meat-NeoChef .cups-meat-NeoChef {
         display: -webkit-box;
         display: -webkit-flex;
@@ -1850,7 +1858,8 @@
         line-height: 1.2;
         text-align: center;
         padding-left: 80px;
-        padding-bottom: 25px; }
+        padding-bottom: 25px;
+        margin-bottom: -20px; }
       .container-meat-NeoChef .stake-meat-NeoChef .degree-stake-NeoChef .cups-meat-NeoChef {
         display: -webkit-box;
         display: -webkit-flex;

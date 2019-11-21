@@ -23,10 +23,12 @@
     .chiken-block{
       display: flex;
       padding-left:20px;
+      width: 100%;
       .chiken-plate{
         display: flex;
-        margin-right: -17.5%;
+        margin-right: -19%;
         width: 100%;
+        flex-basis: 95%;
         img{
           width: 70%;
           display: flex;

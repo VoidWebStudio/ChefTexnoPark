@@ -6,8 +6,8 @@
       <change beforePath="$PROJECT_DIR$/App/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/App/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/chef-neochef.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/chef-neochef.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/chicken-neochef.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/chicken-neochef.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/header-NeoChef.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/header-NeoChef.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/meat-neochef.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/meat-neochef.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/microwave-NeoChef.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/microwave-NeoChef.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +70,7 @@
       <workItem from="1574299213438" duration="618000" />
       <workItem from="1574306430251" duration="879000" />
       <workItem from="1574372294826" duration="1309000" />
+      <workItem from="1574377350756" duration="1505000" />
     </task>
     <servers />
   </component>
