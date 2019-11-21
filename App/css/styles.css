@@ -301,11 +301,12 @@
               .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .info-chef-NeoChef .description-chef-NeoChef .description-chef-NeoChef-title p {
                 padding: 0;
                 font-size: 16px;
-                line-height: 21px; }
+                line-height: 21px;
+                padding-bottom: 12px; }
             .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .info-chef-NeoChef .description-chef-NeoChef .description-chef-NeoChef-story {
               padding-top: 10px; }
               .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .info-chef-NeoChef .description-chef-NeoChef .description-chef-NeoChef-story p {
-                line-height: 10px;
+                line-height: 16px;
                 font-size: 12px; }
         .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .video-chef-NeoChef {
           display: -webkit-box;
@@ -344,7 +345,9 @@
                 padding-top: 5px;
                 padding-right: 211px;
                 font-size: 12px;
-                text-align: left; } }
+                text-align: left; }
+          .contained-chef-NeoChef .main-chef-NeoChef .bio-chef-NeoChef .video-chef-NeoChef .chef-video-block:first-child {
+            padding-bottom: 20px; } }
 
 .container-chicken-NeoChef {
   height: auto;
@@ -690,7 +693,8 @@
       margin: 0 auto; }
       .container-chicken-NeoChef .main-chicken-NeoChef .title-chicken-NeoChef h1 {
         font-size: 23px;
-        line-height: 28px; }
+        line-height: 28px;
+        padding-bottom: 10px; }
       .container-chicken-NeoChef .main-chicken-NeoChef .title-chicken-NeoChef p {
         font-size: 16px;
         line-height: 21px; }
@@ -1280,7 +1284,7 @@
           opacity: 0.8; }
         .container-footer-NeoChef .main-footere-NeoChef .pad-footer-NeoChef .pad-footer-NeoChef1 {
           background-image: url("../img/mob-bg-footer1.png");
-          background-size: 100% 300px;
+          background-size: cover;
           background-position: center 90%;
           background-repeat: no-repeat; }
           .container-footer-NeoChef .main-footere-NeoChef .pad-footer-NeoChef .pad-footer-NeoChef1 .pad-text-NeoChef p {
@@ -1296,7 +1300,7 @@
             -webkit-align-items: center;
             align-items: center; }
           .container-footer-NeoChef .main-footere-NeoChef .pad-footer-NeoChef .pad-footer-NeoChef1 .pad-logo-NeoChef1 {
-            padding-bottom: 240px;
+            padding-bottom: 228px;
             display: -webkit-box;
             display: -webkit-flex;
             display: flex;
@@ -1308,14 +1312,15 @@
             align-items: center;
             padding-top: 37px; }
           .container-footer-NeoChef .main-footere-NeoChef .pad-footer-NeoChef .pad-footer-NeoChef1 p {
-            padding-bottom: 20px; }
+            padding-bottom: 0; }
             .container-footer-NeoChef .main-footere-NeoChef .pad-footer-NeoChef .pad-footer-NeoChef1 p br:nth-child(1) {
               display: none; }
         .container-footer-NeoChef .main-footere-NeoChef .pad-footer-NeoChef .pad-footer-NeoChef2 {
           background-image: url("../img/mob-bg-footer2.png");
-          background-size: 100% 300px;
+          background-size: cover;
           background-position: center 100%;
-          background-repeat: no-repeat; }
+          background-repeat: no-repeat;
+          padding-top: 30px; }
           .container-footer-NeoChef .main-footere-NeoChef .pad-footer-NeoChef .pad-footer-NeoChef2 h1 {
             padding-left: 10px;
             padding-right: 10px; }
@@ -1326,7 +1331,7 @@
             .container-footer-NeoChef .main-footere-NeoChef .pad-footer-NeoChef .pad-footer-NeoChef2 p br:nth-child(2) {
               display: none; }
           .container-footer-NeoChef .main-footere-NeoChef .pad-footer-NeoChef .pad-footer-NeoChef2 .pad-logo-NeoChef1 {
-            padding-bottom: 270px;
+            padding-bottom: 216px;
             display: -webkit-box;
             display: -webkit-flex;
             display: flex;
@@ -1339,8 +1344,8 @@
             padding-top: 0; }
         .container-footer-NeoChef .main-footere-NeoChef .pad-footer-NeoChef .pad-footer-NeoChef3 {
           background-image: url("../img/mob-bg-footer3.png");
-          background-size: 100% 300px;
-          background-position: center 110%;
+          background-size: cover;
+          background-position: center 70%;
           background-repeat: no-repeat;
           padding-bottom: 0; }
           .container-footer-NeoChef .main-footere-NeoChef .pad-footer-NeoChef .pad-footer-NeoChef3 p br:nth-child(2) {
@@ -1358,12 +1363,12 @@
             -webkit-align-items: center;
             align-items: center;
             padding-top: 37px;
-            padding-bottom: 160px; }
+            padding-bottom: 190px; }
           .container-footer-NeoChef .main-footere-NeoChef .pad-footer-NeoChef .pad-footer-NeoChef3 .pad-last-NeoChef {
             display: -webkit-box;
             display: -webkit-flex;
             display: flex;
-            padding-top: 0; }
+            padding-top: 30px; }
           .container-footer-NeoChef .main-footere-NeoChef .pad-footer-NeoChef .pad-footer-NeoChef3 .pad-lg-NeoChef {
             display: -webkit-box;
             display: -webkit-flex;
