@@ -2,8 +2,9 @@
   background-image: url("../img/bg-meat.png");
   background-size:100% 100%;
   background-repeat: no-repeat;
-  padding: 80px 120px;
+  padding: 80px 80px;
   width: 100%;
+  overflow: hidden;
   .main-meat-NeoChef{
     width: 100%;
     display: flex;
@@ -37,6 +38,17 @@
     justify-content: flex-end;
     align-items: center;
     padding-top: 75px;
+    .pizza-bg{
+      display: flex;
+      width: 100%;
+      img{
+        width: 100%;
+        display: flex;
+        margin-left: -17%;
+        object-fit: cover;
+      }
+
+    }
     .degree-meat-NeoChef{
       display: flex;
       justify-content: center;
@@ -296,9 +308,16 @@
     background-size: 100% 100%;
     padding: 20px 50px;
     .main-meat-NeoChef{
-      .title-chef-NeoChef{
+      .title-meat-NeoChef{
+        padding-right: 0;
+        padding-left: 0;
       }
       .pizza-meat-NeoChef{
+        padding-right: 0;
+        justify-content: flex-end;
+        .pizza-bg{
+          display: none;
+        }
         .degree-meat-NeoChef{
           h1{
             font-size: 14px;
@@ -349,6 +368,7 @@
         margin-top: 100px;
         padding-top: 0;
         padding-bottom: 60px;
+        padding-left: 0;
 
         .degree-stake-NeoChef{
           h1{
@@ -383,25 +403,16 @@
           }
         }
       }
+      .logo-mob-coffee{
+        display: none;
+      }
+      .logo-meat-mob-NeoChef{
+        display: none;
+      }
       .logo-meat-NeoChef{
         width: 37%;
         display: flex;
         justify-content: space-between;
-      }
-      .logo-meat-lg-NeoChef{
-        display: flex;
-        width: 40%;
-        justify-content: space-between;
-        align-items: center;
-        padding-top: 96px;
-        padding-bottom: 49px;
-        img:first-child{
-          width: 101px;
-          height: 105px;
-        }
-        img:nth-child(2){
-          width: 109px;
-        }
       }
       .logo-meat-lg-NeoChef{
         display: none;
@@ -415,11 +426,14 @@
 }
 @media (min-width: 320px) and (max-width: 480px){
   .container-meat-NeoChef{
-    background-image: url("../img/mob-bg-meat.png");
+    background-image: url("../img/bg-meat-mob.png");
     background-size: 100% 100%;
+    background-repeat: no-repeat;
     padding: 10px 5px;
     .main-meat-NeoChef{
       .title-meat-NeoChef{
+        padding-right: 0;
+        padding-left: 0;
         h1{
           width: 70%;
           font-size: 23px;
@@ -431,7 +445,12 @@
         }
       }
       .pizza-meat-NeoChef{
-        padding-top: 30px;
+        padding-top: 0;
+        padding-bottom: 0;
+        padding-right: 0;
+        .pizza-bg{
+          display: none;
+        }
         .degree-meat-NeoChef{
           h1{
             font-size: 12px;
@@ -440,7 +459,7 @@
             padding-right: 60px;
           }
           .cups-meat-NeoChef{
-            padding-bottom: 198px;
+            padding-bottom:0;
             .simple-meat-NeoChef{
               width: 122px;
               height: 115px;
@@ -510,9 +529,15 @@
           }
         }
       }
+      .logo-mob-coffee{
+        display: flex;
+        justify-content: flex-end;
+        align-items: flex-end;
+        padding-top:106px;
+      }
       .stake-meat-NeoChef{
         padding-top: 40px;
-        padding-bottom: 60px;
+        padding-bottom:0;
         display: flex;
         justify-content: flex-end;
         align-items: center;
@@ -582,6 +607,13 @@
           }
         }
       }
+      .logo-meat-mob-NeoChef{
+        display: flex;
+        justify-content: space-between;
+        width: 40%;
+        padding-top: 80px;
+        padding-bottom: 51px;
+      }
       .logo-meat-NeoChef{
         display: none;
       }
@@ -590,7 +622,7 @@
       }
       .bottom-meat-NeoChef{
         width: 90%;
-        padding-top: 140px;
+        padding-top: 0;
         p{
           font-size: 9px;
         }
